@@ -8,7 +8,7 @@ version: 2
 # Sphinx Configuration
 sphinx:
     configuration: docs/source/conf.py
-
+ 
 # Formats for build
 formats:
     - htmlzip
@@ -20,3 +20,4 @@ python:
     version: 3.8
     install:
         - requirements: docs/requirements.txt
+n
